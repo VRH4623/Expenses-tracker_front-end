@@ -1,0 +1,18 @@
+important functions     
+-------------------
+
+(each_iter,index,arr) --> 1. each_iter --> each items in an array  
+                          2. index     --> index of each items
+                          3. arr       --> array 
+
+1.Map ()     --> creates a new array with a special modifications without updating an exisiting array // return array 
+2.foreach () --> Used to loop through an array                                                      // no return
+3.every ()   --> checks all the elements in an array for a specified conditions                     // return T / F
+4.filter ()  --> creates a new array with the elements which are passed through a conditions        // return array
+5.some ()    --> checks if atleast one element                                                      // return T / F
+6.find()     --> returns first element in an array which passes the condition                       // returns element
+7.join()     --> returns an new array without modifing                                              // return array 
+8.keys()     --> returns the key for an array                                                       // returns array of keys
+9.includes() --> checks an array / string which contains a specific element                         // return T/F
+10.concat()  --> merge two arrays without modifing an original / exisitinf array                    // return array
+11.Object.entries() --> returns a new array with key-value pairs            
